@@ -2,7 +2,7 @@
 
 ## Enabling Reproducible Data Analysis by Leveraging the Cloud
 
-*This project was completed as a fun coding experiment. More details can be found on my blog <a href = "https://joeknittel.github.io/2021/01/23/Composing-Our-First-Jupyter-Notebook.html">here</a> and <a href = "https://joeknittel.github.io/2021/01/23/Binder-Leveraging-the-Cloud-to-Enable-Reproducible-Data-Analysis.html">here</a>.*
+*This project was completed as a fun coding experiment. More details can be found on my blog <a href = "https://joeknittel.github.io/2021/01/23/Composing-Our-First-Jupyter-Notebook.html">here</a> and <a href = "https://joeknittel.github.io/2021/01/25/Binder-Enabling-Reproducible-Data-Analysis-by-Leveraging-the-Cloud.html">here</a>.*
 
 <hr>
 
